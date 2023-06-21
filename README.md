@@ -1,11 +1,5 @@
-
 <h1 align="center">Hi 👋, I'm Riddhima Garg</h1>
 <h3 align="center">A Tech Enthusiast Awaiting for the Technological Takeover</h3>
-img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/876183/screenshots/4178051/_______.gif"
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=googlesaidwink&label=Profile%20views&color=0e75b6&style=flat" alt="googlesaidwink" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=googlesaidwink" alt="googlesaidwink" /></a> </p>
 
 - 🌱 I’m currently learning **Full stack,AI & machine learning , flutter**
 
@@ -26,12 +20,6 @@ img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/8
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/riddhimagaW"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/riddhimagaW" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=googlesaidwink&show_icons=true&locale=en&layout=compact" alt="googlesaidwink" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=googlesaidwink&show_icons=true&locale=en" alt="googlesaidwink" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=googlesaidwink&" alt="googlesaidwink" /></p>
 
 
 
