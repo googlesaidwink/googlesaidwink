@@ -1,17 +1,18 @@
 <h1 align="center">Hi 👋, I'm Riddhima Garg</h1>
 <h3 align="center">Versatile Fullstack Developer with a Passion for DSA, CP, and ML</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=googlesaidwink&label=Profile%20views&color=0e75b6&style=flat" alt="googlesaidwink" /> </p>
+- 🌱 I’m currently learning **Machine learning frameworks and Advancement in javascript**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=googlesaidwink" alt="googlesaidwink" /></a> </p>
-
-- 📝 I regularly write articles on [https://medium.com/@riddhimagarg922](https://medium.com/@riddhimagarg922)
+- 📝 I regularly write articles on [medium.com/@riddhimagarg922](medium.com/@riddhimagarg922)
 
 - 📫 How to reach me **riddhimagarg922@gmail.com**
+
+- ⚡ Fun fact **I think i am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/riddhima-garg-a96683220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="riddhima-garg-a96683220" height="30" width="40" /></a>
+<a href="https://medium.com/@riddhimagarg922" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@riddhimagarg922" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/riddhimagarg922/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/riddhimagarg922/" height="30" width="40" /></a>
 </p>
 
