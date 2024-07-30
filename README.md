@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Riddhima Garg</h1>
 <h3 align="center">Versatile Fullstack Developer with a Passion for DSA, CP, and ML</h3>
 
-- 🌱 I’m currently learning **Machine learning frameworks and Advancement in javascript**
+- 🌱 I’m currently learning **about life and Cloud Advancement**
 
 - 📝 I regularly write articles on [medium.com/@riddhimagarg922](medium.com/@riddhimagarg922)
 
