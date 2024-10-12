@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Riddhima Garg</h1>
-<h3 align="center">Versatile Fullstack Developer with a Passion for DSA, Java , Development</h3>
+<h3 align="center">A Developer with a Passion for DSA, Java , Development</h3>
 
 - 🌱 I’m currently learning **about life and Cloud Advancement**
 
